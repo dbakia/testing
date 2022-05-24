@@ -1,3 +1,5 @@
 print('simon')
 print('man')
 print('boyses')
+print('biggs')
+print('master')
